@@ -40,7 +40,14 @@ print(type(False))#boolean exp
 #One Value to Multiple Variables
 A=B=b= 'rowdy'
 print(A,B,b)
-
+#example
+#we check in a patient name is sahith.he's 20 years old and is a new patient
+patient_name = 'sahith'
+age = 20
+is_new = True
+print(patient_name)
+print(age)
+print(is_new)
 
 
 
